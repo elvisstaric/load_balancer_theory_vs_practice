@@ -1,0 +1,320 @@
+[
+  {
+    "id": 1,
+    "marka": "Apple",
+    "model": "iPhone 13",
+    "god_pr": 2022,
+    "zaliha": 25,
+    "ocjena": 4.5
+  },
+  {
+    "id": 2,
+    "marka": "Apple",
+    "model": "iPhone 13",
+    "god_pr": 2022,
+    "zaliha": 25,
+    "ocjena": 4.5
+  },
+  {
+    "id": 3,
+    "marka": "Samsung",
+    "model": "S23",
+    "god_pr": 2023,
+    "zaliha": 7,
+    "ocjena": 4.7
+  },
+  {
+    "id": 4,
+    "marka": "Samsung",
+    "model": "S22",
+    "god_pr": 2023,
+    "zaliha": 10,
+    "ocjena": 3
+  },
+  {
+    "id": 5,
+    "marka": "Samsung",
+    "model": "S20",
+    "god_pr": 2023,
+    "zaliha": 10,
+    "ocjena": 3
+  },
+  {
+    "id": 6,
+    "marka": "Samsung",
+    "model": "S20",
+    "god_pr": 2066,
+    "zaliha": 38,
+    "ocjena": 3
+  },
+  { "id": 7, "marka": "Samsungg", "model": "s20", "zaliha": 12, "ocjena": 4.3 },
+  { "id": 8, "marka": "Samsungg", "model": "s20", "zaliha": 12, "ocjena": 4.3 },
+  { "id": 9, "marka": "Samsungg", "model": "s20", "zaliha": 12, "ocjena": 4.3 },
+  {
+    "id": 10,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 11,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 12,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 13,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 14,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 15,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 16,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 17,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 18,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 19,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 20,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 21,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 22,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 23,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 24,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 25,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 26,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 27,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 28,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 29,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 30,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 31,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 32,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 33,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 34,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 35,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 36,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 37,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 38,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 39,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 40,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 41,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 42,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 43,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 44,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 45,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 46,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  {
+    "id": 47,
+    "marka": "Samsungg",
+    "model": "s20",
+    "zaliha": 12,
+    "ocjena": 4.3
+  },
+  { "id": 48, "marka": "Samsungg", "model": "s20", "zaliha": 12, "ocjena": 4.3 }
+]
